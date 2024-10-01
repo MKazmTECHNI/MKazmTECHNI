@@ -7,7 +7,7 @@ Hi there! I'm a junior student full-stack web developer with a passion for build
 ## 🚀 About Me
 
 - 🔧 **Full-Stack Web Developer**: I do have experience in both front-end and back-end development (see projects).
-- 🐍 **Python Programmer**: Proficient in writing Python applications for various use cases.
+- 🐍 **Python Programmer**: Proficient in writing Python applications for various use cases, and discord bots.
 - 🛠️ **Database Management**: Familiar with MySQL and PostgreSQL for handling data effectively. 
 
 I'm always excited to collaborate on interesting projects and open-source contributions.
@@ -43,6 +43,8 @@ Here's one of the biggest project I've worked on:
 
 1. **"Technigram"**  
    *School Social Media*: Closed school socials, available only for school participants. That was my way to learn and practice coding highly advanced backend (which I programmed in Node.js). With Google Accounts Authentication, personally programmed posts, stored in PostgreSQL it taught me a lot and there's still a lot to learn remaining!
+2. **"Safety.exe"**  
+   *Safety while not near*: Discord bot that (if run locally) allows you control your computer through discord messages. Someone unlocked your computer somehow? Don't worry, you'll get notification and you can see camera (which is sometimes hilarious), screenshot, or lock account. 
 
 (Okay, there might currently not be a lot I can write here, but there are some tho (if you want more, just look at my repositories))
 
