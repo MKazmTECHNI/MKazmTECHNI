@@ -1,4 +1,4 @@
-# 👨‍💻 Full-Stack Developer & Python Enthusiast
+# 👨‍💻 Full-Stack Web Developer & Python Enthusiast
 
 Hi there! I'm a junior student full-stack web developer with a passion for building dynamic websites and creating efficient Python applications. I enjoy learning new technologies and continuously improving my coding skills. 
 
