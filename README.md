@@ -42,7 +42,7 @@ I'm continuously improving my skills in the following areas:
 Here's one of the biggest project I've worked on:
 
 1. **"Technigram"**  
-   *School Social Media*: Closed school socials, available only for school participants. That was my way to learn and practice coding highly advanced backend (which I programmed in Node.js). With Google Accounts Authentication, personally programmed posts, stored in PostgreSQL it taught me a lot and there's still a lot to learn remaining!
+   *School Social Media*: Closed school socials, available only for school participants. That was my way to learn and practice coding highly advanced backend (which I programmed in Node.js). With Google Accounts Authentication, personally programmed posts, stored in PostgreSQL it taught me a lot and there's still a lot to learn remaining! In near future I'll probably open-source it.
 2. **"Safety.exe"**  
    *Safety while not near*: Discord bot that (if run locally) allows you control your computer through discord messages. Someone unlocked your computer somehow? Don't worry, you'll get notification and you can see camera (which is sometimes hilarious), screenshot, or lock account. 
 
