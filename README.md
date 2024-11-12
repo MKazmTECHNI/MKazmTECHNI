@@ -51,5 +51,15 @@ Here's one of the biggest project I've worked on:
 ---
 
 
+## 🚀 GitHub Stats:
+
+No promises they'll look pretty
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiloszDev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiloszDev&layout=compact&theme=tokyonight)
+
+
+
 If you've read through that all I'm honestly surprised!
 Anyways, I hope you have a wonderful day! 😊
