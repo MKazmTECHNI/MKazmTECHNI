@@ -55,9 +55,9 @@ Here's one of the biggest project I've worked on:
 
 No promises they'll look pretty
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiloszDev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MKazmTECHNI&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiloszDev&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MKazmTECHNI&layout=compact&theme=tokyonight)
 
 
 
